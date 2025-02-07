@@ -75,4 +75,9 @@ Clone this repository:
 
 ```bash
 git clone <repo-link>
-Feel free to replace `<repo-link>` with the actual link to your repository!
+git add .
+git commit -m "Updated ER diagrams and schemas"
+git push origin main
+
+
+
