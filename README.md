@@ -3,12 +3,12 @@
 ## Overview
 This repository contains the database design for three selected systems:
 
-- **Library Management System**
+- **Real Estate Listing System**
 - **Hotel Booking System**
 - **Sports Tournament Management System**
 
 The project includes ER diagrams, relational schemas, and design justifications for each system.
-s
+
 ## What is This Project?
 This project showcases the creation of database designs using Entity-Relationship (ER) diagrams and relational schemas for various systems. The goal is to create a well-structured, normalized database system that can efficiently handle different types of data for a given application.
 
@@ -65,15 +65,18 @@ The systems chosen for this project:
 
 ## ER Diagrams
 The ER diagrams include:
+
 - **Chen Notation** 
+
 - **Crow's Foot Notation**
+
 - The diagrams are available in **report.html** / **report.pdf** files
 
 ## Relational Schemas
 The relational schemas for each system are provided in the respective sections above. These schemas ensure proper normalization and referential integrity.
 
 ## Assumptions and Design Choices
-- **Weak Entities**: The PropertyClient entity is a weak entity as it relies on both Property and Client for its existence also The MatchTeam entity is a weak entity as it relies on both Match and Team for its existence.
+- **Weak Entities**: The PropertyClient entity is a weak entity as it relies on both Property and Client for its existence also the MatchTeam entity is a weak entity as it relies on both Match and Team for its existence.
 - **Composite Attributes**: Names are kept simple; first and last names are stored as a single attribute.
 - **Multivalued Attributes**: No multivalues attributes 
 - **Relationships**: One-to-many and many-to-many relationships are properly defined.

@@ -13,7 +13,7 @@ execute:
 fontsize: 12pt       # Adjusts font size
 geometry: a4paper    # Sets paper size (useful for PDF export)
 editor: visual       # Opens the document in a visual editor
-url: "https://github.com/enagbeme/ER-Diagrams-HW2.git"
+
 ---
 
 
@@ -21,7 +21,7 @@ GITHUB URL: [GitHub Repository](https://github.com/enagbeme/ER-Diagrams-HW2.git)
 
 ## Group Members
 
-  **Names**         AND         **V#**
+  **Names**       
 
 - Enoch Kumanyenu  &nbsp;&nbsp;&nbsp;&nbsp; V01114695
 
@@ -103,7 +103,7 @@ This report presents the design of three database systems using Chen and Crow's 
 ## **Design Decisions**
 
 - **Weak Entities**: No weak entities were introduced, as all entities can operate independently.
-- **Composite Attributes**: Guest names are stored as single attributes without composite breakdown.
+- **Composite Attributes**: Guest full names are stored as single attributes without composite breakdown.
 - **Multivalued Attributes**: The system assumes that each room is uniquely assigned to a booking, preventing multiple bookings for the same room at the same time.
 
 # **Design Overview**
