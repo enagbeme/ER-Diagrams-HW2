@@ -107,7 +107,7 @@ This report presents the design of three database systems using Chen and Crow's 
 
 ## **Design Decisions**
 
-- **Weak Entities**: No weak entities were introduced, as all entities can operate independently.
+- **Weak Entities**: The PropertyClient entity is a weak entity as it relies on both Property and Client for its existence also the MatchTeam entity is a weak entity as it relies on both Match and Team for its existence.
 - **Composite Attributes**: Guest full names are stored as single attributes without composite breakdown.
 - **Multivalued Attributes**: The system assumes that each room is uniquely assigned to a booking, preventing multiple bookings for the same room at the same time.
 

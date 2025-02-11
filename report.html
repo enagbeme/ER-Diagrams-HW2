@@ -3245,7 +3245,7 @@ vertical-align: -.125em;
 <section id="design-decisions-2" class="level2">
 <h2 class="anchored" data-anchor-id="design-decisions-2"><strong>Design Decisions</strong></h2>
 <ul>
-<li><strong>Weak Entities</strong>: No weak entities were introduced, as all entities can operate independently.</li>
+<li><strong>Weak Entities</strong>: The PropertyClient entity is a weak entity as it relies on both Property and Client for its existence also the MatchTeam entity is a weak entity as it relies on both Match and Team for its existence.</li>
 <li><strong>Composite Attributes</strong>: Guest full names are stored as single attributes without composite breakdown.</li>
 <li><strong>Multivalued Attributes</strong>: The system assumes that each room is uniquely assigned to a booking, preventing multiple bookings for the same room at the same time.</li>
 </ul>
