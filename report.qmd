@@ -23,9 +23,13 @@ GITHUB URL: [GitHub Repository](https://github.com/enagbeme/ER-Diagrams-HW2.git)
 
   **Names**       
 
-- Enoch Kumanyenu  &nbsp;&nbsp;&nbsp;&nbsp; V01114695
+- Enoch Kumanyenu         &nbsp;&nbsp;&nbsp;&nbsp; V01114695
 
-- Rana Nolok       &nbsp;&nbsp;&nbsp;&nbsp; V01007582
+- Rana Nolok              &nbsp;&nbsp;&nbsp;&nbsp; V01007582
+
+- Pooja Krishnappa Nagesh &nbsp;&nbsp;&nbsp;&nbsp; V01113515
+
+- Anshuman Jha            &nbsp;&nbsp;&nbsp;&nbsp; V01073275
 
 
 # **Introduction**

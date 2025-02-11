@@ -13,7 +13,7 @@ The project includes ER diagrams, relational schemas, and design justifications 
 This project showcases the creation of database designs using Entity-Relationship (ER) diagrams and relational schemas for various systems. The goal is to create a well-structured, normalized database system that can efficiently handle different types of data for a given application.
 
 ## Motivation
-The motivation behind this project was to practice and improve my database design skills by translating real-world systems into well-structured databases aimed to showcase our understanding of database concepts such as entities, relationships, normalization, and system requirements.
+The motivation behind this project was to practice and improve our database design skills by translating real-world systems into well-structured databases that's aimed to showcase our understanding of database concepts such as entities, relationships, normalization, and system requirements.
 
 ## Project Description
 This project features:
